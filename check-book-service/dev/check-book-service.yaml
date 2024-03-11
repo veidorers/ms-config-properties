@@ -1,1 +1,2 @@
-testProperty: hello
+testProperty: 
+	field: hello, check-book-service
